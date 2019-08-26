@@ -43,7 +43,8 @@ Front faced pictures of a single subject was captured in different perspective &
 ### Score without using PCA:
 
 When original numbers are used that is dimension reduction isn’t performed we have maximum score.
-![score without pca](pics_for_presentation/score_Without)pca.jpg)
+
+![score without pca](pics_for_presentation/score_Without_pca.jpg)
 
 ### SVM after using PCA:
 
