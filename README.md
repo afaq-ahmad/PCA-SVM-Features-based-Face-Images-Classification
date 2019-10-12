@@ -60,6 +60,3 @@ As we are increasing number of dimensions error is decreasing and score is incre
 
 
 
-#### Support:
-Bitcoin: 3QFpMuvMcMaZ6cQUHqgrd2mDirz1JZi1W8
-
